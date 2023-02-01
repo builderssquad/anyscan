@@ -8,7 +8,7 @@ Anyscan Explorer for any EVM chain
 
 ## Motivation 
 
-Building an alternative and cheaper version of Etherscan for EVM (Ethereum Virtual Machine) chains can have several motivations:
+Building an alternative and cheaper version of Etherscan for EVM (Ethereum Virtual Machine) chains has several motivations:
 
 * Cost Savings: The cost of using Etherscan can be high for some users, particularly those conducting many transactions. An alternative that is less expensive can appeal to these users.
 * User Experience: Some users may find the user experience of Etherscan lacking in certain areas, and building an alternative with improved UX can attract these users.
