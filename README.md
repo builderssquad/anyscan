@@ -19,6 +19,8 @@ Building an alternative and cheaper version of Etherscan for EVM (Ethereum Virtu
 
 Anyscan uses ReactJS, NodeJS and MongoDB. 
 
+![Tech](https://miro.medium.com/proxy/0*hU4zJiyVwWcM0L-w.png)
+
 List of benefits: 
 
 * React: React is a popular and widely-used JavaScript library for building user interfaces. It provides a fast and efficient way to build complex, dynamic, and interactive interfaces with a high level of user engagement.
@@ -28,6 +30,9 @@ List of benefits:
 * Integration: React and MongoDB can easily be integrated with other technologies, such as blockchain networks and payment systems, to provide a comprehensive solution for managing and tracking blockchain transactions.
 * Overall, building an Etherscan alternative on React and MongoDB provides advantages such as scalability, community support, fast and efficient querying capabilities, and easy integration with other technologies.
 
+In comparison Blockscout explorer uses Elixir Language (https://github.com/blockscout/blockscout) - Elixir has some advantages but there are few weaknesses. The most essential weakness is that it is hard to find, keep and extend the team of Elixir developers when Javascript has not such problem. 
+
+Javascript stack allows to scale a team and make features time to market. 
 
 ## Available Functionaly
 
