@@ -29,24 +29,37 @@ List of benefits:
 
 ## Available Functionaly
 
+In general: 
+
+* Block explorer: Anyscan allows users to search, view, and verify transactions, blocks, and other EVM-related data on the blockchain.
+* Token Tracker: Anyscan tracks and displays information about ERC-20 tokens, including their total supply, price, and market cap.
+* Contract Verification: Etherscan verifies the source code of smart contracts deployed on the Ethereum blockchain, making it easier for users to inspect and understand their behavior.
+* Analytics: Etherscan provides various charts and statistics related to the Ethereum network, such as network hash rate, gas price, and miner distribution.
+* API: Etherscan provides an API for developers to retrieve blockchain data, including historical data and real-time updates, for use in their own applications.
+
+
+In details: 
+
+* Search: Ellasic search by text for tokens
+* Operations: Read and Write actions for verified smart contracts 
+* Bytecode to Opcode disassembler
 * Show latest blocks and transactions, Total txns, latest blocknumber, Market capitalization, History transactions within 24h, 1 week, 1 month
 * Support Api endpoints to get txn, block and tokens
 * Get Transaction history
 * Get Block history
 * Display log events
 * Display internal transactions
-* Token Tracker(ERC-20 and ERC-721)
 * ERC-20 and ERC-721 Token Transfers
 * Charts and Statistics
-* Detail pages(Block, Transaction, Address, Token)
+* Detail pages (Block, Transaction, Address, Token)
 * Add Comments using Disqus
 * Search functionality with Block hash and number, Txn hash, Token name etc.
 * Show Top accounts by coin balance
 * Single smart contract verification and read/write contract.
 * Add rpc on metamask
 * Show holding tokens
-* Bytecode to Opcode disassembler
-* Read and Write actions for verified smart contracts 
+* NFT page (NFT transactions, NFT image)
+
 
 ## Commin Soon Functionaly (on test stage)
 
@@ -57,14 +70,16 @@ List of benefits:
 Basically, the default plan is to make everything what is available in Etherscan.
 As far we supported by projects they could apply chain specific functiality and define priorities of default tasks
 
-* Ability to add token specific informaiton (website, social links)
-* Integration with Remix (debug of transaction)
-* Advanced analytics, reports 
-* Advanced filtering and sorting of all data
-* Ellasic search improvement, support of all entities 
-* Token holder rich list
-* Most active token holders 
-* Most liquid token analytics 
+* Improving user experience: Etherscan could continue to improve its user interface and user experience, making it more accessible and intuitive for users of all levels of technical expertise.
+* Adding new features: Anyscan could add new features and tools, such as a decentralized exchange (DEX) explorer, an oracle explorer, or a staking explorer, to provide a one-stop solution for blockchain users.
+* Integrating with other platforms: Anyscan integration with other blockchain platforms, wallets, and decentralized applications (dApps), enabling users to interact with the Ethereum network through a unified platform.
+* Tools: Anyscan offers various tools and services, such as a gas price calculator and a tool for calculating EVM address balances.
+* Project Info: Ability to add token specific informaiton (website, social links)
+* Debug: Integration with Remix (debug of transaction)
+* Data Tools: Advanced filtering and sorting of all data
+* Search: Ellasic search improvement, support of all entities 
+* Facts: Token holder rich list
+
 
 
 ## Launched on chains
