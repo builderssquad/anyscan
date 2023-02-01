@@ -1,5 +1,7 @@
 # Anyscan
 
+![Anyscan](https://anyscan.org/img/logo.svg)
+
 Website: https://anyscan.org
 
 Anyscan Explorer for any EVM chain
