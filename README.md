@@ -13,7 +13,6 @@ Building an alternative and cheaper version of Etherscan for EVM (Ethereum Virtu
 * Cost Savings: The cost of using Etherscan can be high for some users, particularly those conducting many transactions. An alternative that is less expensive can appeal to these users.
 * User Experience: Some users may find the user experience of Etherscan lacking in certain areas, and building an alternative with improved UX can attract these users.
 * Customization: Some users may require customized features that Etherscan doesn't provide. An alternative that offers these customization options can attract these users.
-* Decentralization: Etherscan is a centralized platform, which can create single points of failure and be subject to censorship. Building a decentralized alternative can appeal to users who value the decentralization and censorship resistance of blockchain technology.
 
 ## Implementation 
 
