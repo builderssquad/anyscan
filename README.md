@@ -30,7 +30,7 @@ List of benefits:
 * Integration: React and MongoDB can easily be integrated with other technologies, such as blockchain networks and payment systems, to provide a comprehensive solution for managing and tracking blockchain transactions.
 * Overall, building an Etherscan alternative on React and MongoDB provides advantages such as scalability, community support, fast and efficient querying capabilities, and easy integration with other technologies.
 
-In comparison Blockscout explorer uses Elixir Language (https://github.com/blockscout/blockscout) - Elixir has some advantages but there are few weaknesses. The most essential weakness is that it is hard to find, keep and extend the team of Elixir developers when Javascript has not such problem. 
+In comparison Blockscout explorer uses Elixir Language (https://github.com/blockscout/blockscout) - Elixir has some advantages but there are few weaknesses. The most essential weakness is that it is hard to find, keep and extend the team of Elixir developers when Javascript does not have not such problem. 
 
 Javascript stack allows to scale a team and make features time to market. 
 
@@ -99,5 +99,5 @@ As far we supported by projects they could apply chain specific functiality and 
 
 ## Support 
 
-Feel free to create an Issue in this repository. Development team consider this approach as main communication channel. 
+Feel free to create an Issue in this repository. Development team consider this approach as main the communication channel. 
 
