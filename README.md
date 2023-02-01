@@ -72,8 +72,9 @@ In details:
 Basically, the default plan is to make everything what is available in Etherscan.
 As far we supported by projects they could apply chain specific functiality and define priorities of default tasks
 
+
 * Improving user experience: Etherscan could continue to improve its user interface and user experience, making it more accessible and intuitive for users of all levels of technical expertise.
-* Adding new features: Anyscan could add new features and tools, such as a decentralized exchange (DEX) explorer, an oracle explorer, or a staking explorer, to provide a one-stop solution for blockchain users.
+* Adding new features: Decentralized exchange (DEX) explorer, an oracle explorer, or a staking explorer, to provide a one-stop solution for blockchain users.
 * Integrating with other platforms: Anyscan integration with other blockchain platforms, wallets, and decentralized applications (dApps), enabling users to interact with the Ethereum network through a unified platform.
 * Tools: Anyscan offers various tools and services, such as a gas price calculator and a tool for calculating EVM address balances.
 * Project Info: Ability to add token specific informaiton (website, social links)
@@ -81,6 +82,7 @@ As far we supported by projects they could apply chain specific functiality and 
 * Data Tools: Advanced filtering and sorting of all data
 * Search: Ellasic search improvement, support of all entities 
 * Facts: Token holder rich list
+* State: Integration with ganache to recompute blockchain state locally and provide full web3-rpc. This will remove need to provide expensive gateway nodes and allow users to use optimized high load endpoint for Metamask, Dapps.
 
 
 
