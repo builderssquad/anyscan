@@ -27,9 +27,6 @@ List of benefits:
 * Overall, building an Etherscan alternative on React and MongoDB provides advantages such as scalability, community support, fast and efficient querying capabilities, and easy integration with other technologies.
 
 
-
-
-
 ## Available Functionaly
 
 * Show latest blocks and transactions, Total txns, latest blocknumber, Market capitalization, History transactions within 24h, 1 week, 1 month
@@ -49,6 +46,7 @@ List of benefits:
 * Add rpc on metamask
 * Show holding tokens
 * Bytecode to Opcode disassembler
+* Read and Write actions for verified smart contracts 
 
 ## Commin Soon Functionaly (on test stage)
 
@@ -56,7 +54,17 @@ List of benefits:
 
 ## Roadmap
 
+Basically, the default plan is to make everything what is available in Etherscan.
+As far we supported by projects they could apply chain specific functiality and define priorities of default tasks
+
 * Ability to add token specific informaiton (website, social links)
+* Integration with Remix (debug of transaction)
+* Advanced analytics, reports 
+* Advanced filtering and sorting of all data
+* Ellasic search improvement, support of all entities 
+* Token holder rich list
+* Most active token holders 
+* Most liquid token analytics 
 
 
 ## Launched on chains
