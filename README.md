@@ -97,5 +97,7 @@ As far we supported by projects they could apply chain specific functiality and 
 * Mantlescan Testnet (https://testnet.mantlescan.org/) - Layer 2 for ethereum with trustless L1-L2 bridge . 
 
 
+## Support 
 
+Feel free to create an Issue in this repository. Development team consider this approach as main communication channel. 
 
